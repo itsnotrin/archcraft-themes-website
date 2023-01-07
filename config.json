@@ -1,0 +1,4 @@
+{
+    "port": 3000,
+    "themes.json": "https://raw.githubusercontent.com/archcraft-os/archcraft-theme-manager/main/themes.json"
+}
